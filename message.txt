@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME}, 
+
+There is a discount in the menu ${MENU_NAME},
+
+Have a great weekend! 
+
+Yours Truly
